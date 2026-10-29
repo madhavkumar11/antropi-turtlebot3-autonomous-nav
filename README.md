@@ -1,5 +1,3 @@
-# antropi-turtlebot3-autonomous-nav
-Autonomous navigation &amp; SLAM mapping using TurtleBot3 (Waffle Pi) on ROS 2 Jazzy and Gazebo Harmonic.
 # TurtleBot3 Autonomous Navigation (ROS 2 Jazzy)
 
 This repository contains the mapping and navigation implementation for the **Antropi Robotics Software Intern Assignment**. It demonstrates 2D SLAM, AMCL localization, and autonomous navigation with dynamic obstacle avoidance using a simulated TurtleBot3 Waffle Pi in Gazebo Harmonic.
@@ -11,6 +9,7 @@ This repository contains the mapping and navigation implementation for the **Ant
 * `antropi_house_map.yaml`: Nav2 map configuration parameters.
 * `antropi_house_map.pgm`: 2D occupancy grid generated via SLAM Toolbox.
 * `README.md`: Environment setup and reproduction instructions.
+* github repos for files
 
 ---
 
@@ -30,3 +29,5 @@ sudo apt install -y \
   ros-jazzy-turtlebot3-navigation2 \
   ros-jazzy-slam-toolbox \
   ros-jazzy-ros-gz-bridge
+
+### 2. Install Gazebo 
