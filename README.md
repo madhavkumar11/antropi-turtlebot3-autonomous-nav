@@ -10,7 +10,7 @@ The implementation uses ROS 2 Jazzy, Gazebo Harmonic, Cartographer for SLAM, and
 
 **Watch the Autonomous Navigation Demo:**
 
-[▶ Watch the Demo Video](https://youtu.be/hG2li_4iB9Y)
+[▶ Watch the Video](https://youtu.be/hG2li_4iB9Y)
 
 > Actual demonstration video.
 
